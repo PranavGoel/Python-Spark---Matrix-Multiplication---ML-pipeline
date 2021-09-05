@@ -9,7 +9,10 @@ It means, no matter how large n (row) will be, if the number of columns of a mat
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Input File Name: matrix_data.txt 
+
+Description: Here, a simplified 5x5 matrix is used.
+
 Note: The original input data is huge (File Size is 15MB) and could not be uploadded to GitHub. The code is also good for n rows data input when n is huge.
-Here, a simplified 5x5 matrix is used.
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
